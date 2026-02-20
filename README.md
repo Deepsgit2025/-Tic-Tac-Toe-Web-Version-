@@ -6,8 +6,8 @@ Project Structure:
 tic-tac-toe/
 │
 ├── index.html      # Game structure
-├── counter.css     # Styling
-├── counter.js      # Game logic
+├── tictac.css     # Styling
+├── tictac.js      # Game logic
 └── README.md       # Project documentation
 
 🚀 Features :
